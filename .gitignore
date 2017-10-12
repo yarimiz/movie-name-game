@@ -1,0 +1,14 @@
+*.pyc
+*.sublime-workspace
+lib
+node_modules
+build_artifacts
+build-revisions.json
+client/build
+env
+.cache
+.vscode
+secrets-dev.json
+secrets-prod.json
+.cache/
+*.7z
